@@ -30,8 +30,8 @@ function prependKitten(){
   
 }
 
-function removeLastKitten(kitten){
-  return kitten.unshift()
+function removeLastKitten(){
+  kitten.unshift()
 }
 
 function removeFirstKitten(){
