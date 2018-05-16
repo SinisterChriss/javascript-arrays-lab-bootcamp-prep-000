@@ -23,6 +23,6 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(){
-  const appendKitten 
+  const appendKitten = [...cats, "Broom"]
   
 }
