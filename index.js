@@ -1,4 +1,5 @@
 const app = "I don't do much.";
+const cats = 
 var kittens = ["Milo", "Otis", "Garfield"];
 var otherKitten; "Broom";
 
