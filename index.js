@@ -22,7 +22,7 @@ function destructivelyRemoveFirstKitten(){
   
 }
 
-function appendKitten(){
+function appendKitten(Broom){
   const appendKitten = [...cats, "Broom"]
   
 }
