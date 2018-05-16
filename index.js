@@ -22,6 +22,6 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(Broom){
-  const appendKitten = [...cats, "Broom"]
+  const app = [...kitten, "Broom"]
   
 }
