@@ -25,3 +25,15 @@ function appendKitten(){
   const append = [...kittens, "Broom"];
   
 }
+
+function prependKitten(){
+  
+}
+
+function removeLastKitten(){
+  kittens.slice(-1)
+}
+
+function removeFirstKitten(){
+  
+}
