@@ -1,6 +1,6 @@
 const app = "I don't do much.";
 var kittens = ["Milo", "Otis", "Garfield"];
-var otherKitten; "Bob";
+var otherKitten; "Broom";
 
 function destructivelyAppendKitten(){
   kittens.push("Ralph");
@@ -21,7 +21,7 @@ function destructivelyRemoveFirstKitten(){
   
 }
 
-function appendKitten(){
-  kittens = [...kittens, 'Broom'];
+function appendKitten(kittens, otherKitten){
+  kittens = [...kittens, otherKitten];
   
 }
