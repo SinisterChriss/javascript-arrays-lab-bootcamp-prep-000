@@ -1,4 +1,4 @@
-const app = ["Milo", "Otis", "Garfield"];
+const app = "I don't do much.";
 var kittens = ["Milo", "Otis", "Garfield"];
 var otherKitten; "Broom"; //Probably not needed
 
@@ -22,6 +22,6 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(){
-  app = [...kittens, "Broom"];
+  const append = [...kittens, "Broom"];
   
 }
