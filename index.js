@@ -1,7 +1,6 @@
-const app = "I don't do much.";
-const cats = ["Milo", "Otis", "Garfield"];
+const app = "Broom";
 var kittens = ["Milo", "Otis", "Garfield"];
-var otherKitten; "Broom";
+var otherKitten; "Broom"; //Probably not needed
 
 function destructivelyAppendKitten(){
   kittens.push("Ralph");
