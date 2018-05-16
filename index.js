@@ -1,4 +1,4 @@
-const app = "Milo", "Otis", "Garfield";
+const app = ["Milo", "Otis", "Garfield"];
 var kittens = ["Milo", "Otis", "Garfield"];
 var otherKitten; "Broom"; //Probably not needed
 
